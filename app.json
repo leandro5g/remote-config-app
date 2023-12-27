@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "feature-toggle",
+    "slug": "feature-toggle",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
